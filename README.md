@@ -48,6 +48,43 @@ var check = function(){
 
 ```
 
+## API
+
+### Options
+
+#### dumb
+```js
+
+duh('dumb');
+
+```
+type: string
+
+Returns `duh dummy`
+
+#### doge
+```js
+
+duh('doge');
+
+```
+type: string
+
+Returns `duh doge`
+
+#### troll
+```js
+
+duh('troll');
+
+```
+type: string
+
+Returns `duh troll`
+
+
+
+
 ## Examples
 
 You can view more examples in the [example folder.](https://github.com/stevelacy/duh/tree/master/examples)
