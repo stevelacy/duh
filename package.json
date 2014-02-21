@@ -1,0 +1,27 @@
+{
+  "name": "duh",
+  "description": "What were you thinking?",
+  "version": "0.0.1",
+  "homepage": "http://github.com/stevelacy/duh",
+  "repository": "git://github.com/stevelacy/duh.git",
+  "author": "Steve Lacy me@slacy.me (http://slacy.me/)",
+  "main": "./index.js",
+  "dependencies": {
+  },
+  "devDependencies": {
+    "mocha": "*",
+    "should": "*"
+  },
+  "scripts": {
+    "test": "mocha --reporter spec"
+  },
+  "engines": {
+    "node": ">= 0.9.0"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://github.com/stevelacy/duh/raw/master/LICENSE"
+    }
+  ]
+}
