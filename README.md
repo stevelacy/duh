@@ -22,6 +22,8 @@
 
 ` npm i duh --save`
 
+## Example
+
 ```js
 
 var me = 'human';
@@ -47,6 +49,10 @@ var check = function(){
 
 
 ```
+
+You can view more examples in the [example folder.](https://github.com/stevelacy/duh/tree/master/examples)
+
+
 
 ## API
 
@@ -83,11 +89,12 @@ type: string
 Returns `duh troll`
 
 
+## Testing
 
+` npm test`
 
-## Examples
+^^ Epic testing there :)
 
-You can view more examples in the [example folder.](https://github.com/stevelacy/duh/tree/master/examples)
 
 ## LICENSE
 
