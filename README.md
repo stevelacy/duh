@@ -58,35 +58,19 @@ You can view more examples in the [example folder.](https://github.com/stevelacy
 
 ### Options
 
-#### dumb
-```js
+`duh(String argument)`
 
-duh('dumb');
+`type: String`
 
-```
-type: string
+`returns: String + argument`
 
-Returns `duh dummy`
-
-#### doge
 ```js
 
 duh('doge');
 
 ```
-type: string
 
-Returns `duh doge`
-
-#### troll
-```js
-
-duh('troll');
-
-```
-type: string
-
-Returns `duh troll`
+##### Returns `duh doge`
 
 
 ## Testing
