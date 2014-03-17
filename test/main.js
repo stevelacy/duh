@@ -45,7 +45,7 @@ describe('duh', function() {
       done();
     });
     it('should be duh dummy', function(done){
-      String(duh('dumb')).should.equal("duh dummy");
+      String(duh('dumb')).should.equal("duh dumb");
       done();
     });
     it('should not be anything but duh', function(done){
