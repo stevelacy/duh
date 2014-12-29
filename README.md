@@ -84,7 +84,7 @@ duh('doge');
 
 (MIT License)
 
-Copyright (c) 2013 Steve Lacy - slacy.me <me@slacy.me>
+Copyright (c) 2015 Steve Lacy - slacy.me <me@slacy.me>
 
 Permission is hereby granted, free of charge, to any person obtaining
 a copy of this software and associated documentation files (the
